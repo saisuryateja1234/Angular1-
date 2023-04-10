@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Timer</title>
+  </head>
+  <body>
+    <div id="timer" style="position: absolute; top: 50%; left: 50%;"></div>
+    <script>
+      // Set the timer start time in seconds
+      var startTime = 0;
+      
+      // Get the timer element
+      var timerElement = document.getElementById("timer");
+      
+      // Format the time in the hh:mm:ss format
+      function formatTime(time) {
+        var hours = Math.floor(time / 3600);
+        var minutes = Math.floor((time - (hours * 3600)) / 60);
+        var seconds = time - (hours * 3600) - (minutes * 60);
+        if (hours < 10) { hours = "0" + hours; }
+        if (minutes < 10) { minutes = "0" + minutes; }
+        if (seconds < 10) { seconds = "0" + seconds; }
+        return hours + ":" + minutes + ":" + seconds;
+      }
+      
+      // Update the timer every second
+      var timerInterval = setInterval(function() {
+        startTime++;
+        timerElement.innerHTML = formatTime(startTime);
+      }, 1000);
+    </script>
+  </body>
+</html>
