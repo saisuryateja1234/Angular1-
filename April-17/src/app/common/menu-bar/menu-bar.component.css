@@ -1,0 +1,21 @@
+
+.titlebar{
+    background-color: #d9f108;
+}
+span{
+    font-size: Times new roman;
+    font-weight:bold;
+    color: white;
+}
+.titlename{
+    width:100%;
+    display:flex;
+    margin-left: 39%;
+}
+button{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+}
+
