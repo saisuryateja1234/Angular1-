@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "price": 999,
+      "image": "ele1.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clinique Moisture Surge",
+      "price": 39,
+      "image": "cos1.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Max 2090",
+      "price": 150,
+      "image": "exe1.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 4,
+      "name": "The Alchemist",
+      "price": 10,
+      "image": "book1.jpg",
+      "type": "books"
+    },
+    {
+      "id": 5,
+      "name": "Fresh Strawberries",
+      "price": 5,
+      "image": "gro1.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 6,
+      "name": "Fitbit Charge 5",
+      "price": 179,
+      "image": "https://example.com/fitbit-charge-5.jpg",
+      "type": "ele2"
+    },
+    {
+      "id": 7,
+      "name": "L'Oreal Paris Voluminous Mascara",
+      "price": 9,
+      "image": "cos2.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 8,
+      "name": "Yoga Mat",
+      "price": 30,
+      "image": "exe2.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 9,
+      "name": "To Kill a Mockingbird",
+      "price": 12,
+      "image": "book2.jpg",
+      "type": "books"
+    },
+    {
+      "id": 10,
+      "name": "Organic Avocado",
+      "price": 2,
+      "image": "gro2.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 11,
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "image": "ele3.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 12,
+      "name": "Maybelline Instant Age Rewind Concealer",
+      "price": 8,
+      "image": "cos3.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 13,
+      "name": "Resistance Bands",
+      "price": 15,
+      "image": "exe3.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 14,
+      "name": "The Great Gatsby",
+      "price": 8,
+      "image": "book3.jpg",
+      "type":"books"
+	}
+	]
+}
