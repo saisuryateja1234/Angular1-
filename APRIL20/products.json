@@ -1,0 +1,67 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Macbook",
+        "price": 1000,
+        "image": "macbook.jpg",
+        "type": "Electronics"
+      },
+      {
+        "id": 2,
+        "name": "Makeupkit",
+        "price": 100,
+        "image": "makeupkit.jpg",
+        "type": "Cosmetics"
+      },
+      {
+        "id": 3,
+        "name": "Coffee",
+        "price": 10,
+        "image": "coffee.jpg",
+        "type": "Groceries"
+      },
+      {
+        "id": 4,
+        "name": "Harry Potter",
+        "price": 15,
+        "image": "harry.jpg",
+        "type": "Books"
+      },
+      {
+        "id": 5,
+        "name": "Iphone",
+        "price": 65,
+        "image": "iphone.jpg",
+        "type": "Electronics"
+      },
+      {
+        "id": 6,
+        "name": "Fire and Ice",
+        "price": 15,
+        "image": "fire.jpg",
+        "type": "Books"
+      },
+      {
+        "id": 7,
+        "name": "Apple",
+        "price": 5,
+        "image": "apple.jpg",
+        "type": "Groceries"
+      },
+      {
+        "id": 8,
+        "name": "Half Girlfriend",
+        "price": 8,
+        "image": "halfgirlfriend.jpg",
+        "type": "Books"
+      },
+      {
+        "id": 9,
+        "name": "Eyeliner",
+        "price": 5,
+        "image": "eyeliner.jpg",
+        "type": "Cosmetics"
+      }
+    ]
+}
