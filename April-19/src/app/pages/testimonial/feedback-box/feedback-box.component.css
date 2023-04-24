@@ -1,0 +1,28 @@
+.feedback-box{
+    width: 800px;
+    height: 100px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px gray;
+    border-style:ridge;
+    margin-top: 20px;
+    margin-left:18%;
+}
+.name{
+    margin: 10px;
+    text-align: left;
+    font-size: large;
+}
+.message{
+    text-align: center;
+    font-size: large;
+    margin: 10px;
+    font-style: oblique;
+}
+.type{
+    text-align: right;
+    font-size: x-small;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
